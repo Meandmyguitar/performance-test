@@ -8,6 +8,15 @@
     <artifactId>lock-test</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>collection</module>
+        <module>decorator</module>
+        <module>io</module>
+        <module>jta</module>
+        <module>lock-test</module>
+        <module>stream</module>
+    </modules>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
